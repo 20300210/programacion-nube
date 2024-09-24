@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de Clave Binaria</title>
+</head>
+<body>
+    <h1>Generador de Clave Binaria</h1>
+    <form method="POST">
+        <label for="longitud">Longitud de la clave:</label>
+        <input type="number" id="longitud" name="longitud" required>
+        <button type="submit">Generar Clave</button>
+    </form>
+    {% if clave %}
+        <h2>Clave generada:</h2>
+        <p>{{ clave }}</p>
+    {% endif %}
+</body>
+</html>

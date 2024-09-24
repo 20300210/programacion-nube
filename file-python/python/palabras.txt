@@ -1,0 +1,91 @@
+Perro
+conda install -c main numpy
+conda install -c main mkl
+conda install -c main intel-openmp
+conda install -c main blas
+conda install -c main patsy
+conda install -c main libgfortran5
+Gato
+León
+Tigre
+Elefante
+Jirafa
+Cebra
+Oso
+Cocodrilo
+Serpiente
+Mono
+Rinoceronte
+Hipopótamo
+Ballena
+Delfín
+Pájaro
+Águila
+Búho
+Murciélago
+Tortuga
+Mesa
+Silla
+Escritorio
+Computadora
+Teléfono
+Lámpara
+Bolígrafo
+Libro
+Cuaderno
+Reloj
+Botella
+Taza
+Platos
+Tenedor
+Cuchillo
+Tijeras
+Martillo
+Destornillador
+Cepillo
+Escoba
+Nueva York
+París
+Londres
+Tokio
+Los Ángeles
+Roma
+Madrid
+Buenos Aires
+Ciudad de México
+Sídney
+Berlín
+Pekín
+Río de Janeiro
+Moscú
+Toronto
+Estambul
+Seúl
+Mumbai
+El Cairo
+Dubái
+Felicidad
+Aventura
+Melodía
+Aurora
+Serenidad
+Destino
+Travesura
+Esencia
+Alquimia
+Época
+Poesía
+Trueno
+Invierno
+Sonrisa
+Esperanza
+Tormenta
+Encanto
+Magia
+Euforia
+Renacer
+Proyector
+Escáner
+Tableta
+Auriculares
+Cámara
